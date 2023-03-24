@@ -4,7 +4,7 @@ This Pyhon program is to make more easy change the HOSTS file (Windows) and to m
 
 to create an executable file, you can use pyinstaller
 
-pyinstaller --onefile --noconsole --icon=ico.png  --name=EasyHosts.exe --clean  main.py
+pyinstaller --onefile --noconsole --icon=src/ico.png  --name=EasyHosts.exe --clean  src/main.py
 
 Run the program with the administrator privileges
 
