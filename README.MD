@@ -8,4 +8,3 @@ pyinstaller --onefile --noconsole --icon=ico.png  --name=EasyHosts.exe --clean  
 
 Run the program whit the administrator privileges
 
-[]: # Path: README.MD
