@@ -6,5 +6,5 @@ to create an executable file, you can use pyinstaller
 
 pyinstaller --onefile --noconsole --icon=ico.png  --name=EasyHosts.exe --clean  main.py
 
-Run the program whit the administrator privileges
+Run the program with the administrator privileges
 
