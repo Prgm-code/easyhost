@@ -1,1 +1,10 @@
 venv/
+dist/
+*.spec
+*.egg-info
+build/
+*.egg
+*.manifest
+*.log
+*.pot
+*.pyc
